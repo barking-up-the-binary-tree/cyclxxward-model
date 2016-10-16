@@ -1,0 +1,9 @@
+{
+  "name": "Olivier Huin",
+  "homeLocation": {
+    "address": {
+      "country": "GB",
+      "region": "_:place/region/gb/greater-london"
+    }
+  }
+}
