@@ -2,5 +2,6 @@
   "name": "Greater_London",
   "description": "Greater London",
   "country": "GB",
+  "typeOf": "_:typeof/country-region",
   "wikipedia:url": "Greater_London"
 }

@@ -1,4 +1,6 @@
 {
   "name": "0JH-16J1",
-  "description": "0JH-16J1"
+  "description": "0JH-16J1",
+  "qualities": ["trapped","abused","struggling","angry"],
+  "typeOf": "_:typeof/fictional-character"
 }

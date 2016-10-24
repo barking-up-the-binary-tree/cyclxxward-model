@@ -1,0 +1,7 @@
+{
+  "postcode": "N123",
+  "name": "Specialized Laura Street",
+  "id": "_:fictional/place/specialized-laura-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}

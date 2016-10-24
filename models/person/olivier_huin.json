@@ -1,5 +1,6 @@
 {
   "name": "Olivier Huin",
+  "typeOf": "_:typeof/person",
   "homeLocation": {
     "address": {
       "country": "GB",

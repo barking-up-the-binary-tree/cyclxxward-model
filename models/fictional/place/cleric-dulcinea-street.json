@@ -1,0 +1,7 @@
+{
+  "postcode": "W100",
+  "name": "Cleric Dulcinea Street",
+  "id": "_:fictional/place/cleric-dulcinea-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}

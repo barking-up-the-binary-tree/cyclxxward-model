@@ -1,0 +1,7 @@
+{
+  "postcode": "N231",
+  "name": "Restrict Eos Street",
+  "id": "_:fictional/place/restrict-eos-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}

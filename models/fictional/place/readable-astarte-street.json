@@ -1,0 +1,7 @@
+{
+  "postcode": "N054",
+  "name": "Readable Astarte Street",
+  "id": "_:fictional/place/readable-astarte-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}

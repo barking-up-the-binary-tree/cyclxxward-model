@@ -1,0 +1,7 @@
+{
+  "postcode": "N199",
+  "name": "Inbound Esther Street",
+  "id": "_:fictional/place/inbound-esther-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}

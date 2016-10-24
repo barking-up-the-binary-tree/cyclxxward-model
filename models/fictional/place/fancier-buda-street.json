@@ -1,0 +1,7 @@
+{
+  "postcode": "N190",
+  "name": "Fancier Buda Street",
+  "id": "_:fictional/place/fancier-buda-street",
+  "typeOf": "_:typeof/fictional-place",
+  "containedInPlace": "_:fictional/place/cy-clxx-ward"
+}
