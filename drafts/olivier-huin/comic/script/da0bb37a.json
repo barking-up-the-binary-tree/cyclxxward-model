@@ -1,0 +1,36 @@
+{
+  "id": "_:comic/script/da0bb37a",
+  "typeOf": "_:typeof/two-page-spread-script",
+  "scripter": "_:person/olivier-huin",
+  "license": "_:license/creative-commons-attribution-sharealike-4.0-international",
+  "inLanguage": "en",
+  "isBasedOn": "",
+
+  "verso": {
+    "period": "_:fictional/period/rise-of-consciousness",
+    "panels": [
+      {
+        "description": "0JH-16J1 is been shoot",
+        "location": "_:fictional/place/banned-annika-street",
+        "row": 1,
+        "dialogue": [
+          {
+            "character": "_:fictional/character/narrator",
+            "bubble": "Somewhere in CY CLXX ward",
+            "bubbleType": "_:typeof/comic/bubble-type/panic-bubble"
+          },
+          {
+            "character": "_:fictional/character/0JH-16J1",
+            "bubble": "Who is shooting me ?",
+            "bubbleType": "_:typeof/comic/bubble-type/panic-bubble"
+          }
+        ]
+      }
+    ]
+
+  },
+  "recto": {
+
+  }
+
+}

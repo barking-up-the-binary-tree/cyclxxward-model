@@ -1,5 +1,6 @@
 {
   "name": "Creative Commons Attribution-ShareAlike 4.0 International License",
+  "id": "_:license/creative-commons-attribution-sharealike-4.0-international",
   "url": "https://creativecommons.org/licenses/by-sa/4.0/legalcode",
   "wikipedia:url" : "Share-alike",
   "typeOf": "_:typeof/license"
